@@ -1,0 +1,48 @@
+Algebra Software
+End-User-License Agreement (EULA)
+
+1. 0 - COPYRIGHT
+
+Algebra software are not Open-Source applications. You won't get access to the source code, so You are not allowed 
+to modify, to extract or to bypass the application to get access to the source code or to use the software for 
+malicious activities.
+
+1. 0. 1 - MIXSCANS ASSET LIBRARY ADDITIONS
+
+You're allowed to use the assets for private and commercial use. You can use them copyright free and You can make 
+them to your own. You're also allowed to use them for other projects, which aren't made or used with Algebra software.
+
+1. 1 - RESOURCES
+
+All physical materials, like images, icons, texts, audio and the source code are properties of Algebra. You are not 
+allowed to copy this materials out of the application (In case of copyright infringement, the terms of 1. 0 go in 
+action).
+
+2. 0 - RIGHTS OF USE
+
+You're allowed to use the software for commercial and/ or privat purposes. You're not allowed to sell the software, 
+to share a copy of the software and to modify, to bypass or to break the software or it's instances.
+
+3. 0 - DISCLAIMER OF LIABILITY
+
+Alegbra is not responsible for any damage on or in your system. The software runs on your own risk. If You run the 
+software You agree, that You take your own risk, to use the software. Algebra doesn't promise to keep the software 
+up-to-date, free of malware or secure in it's code in case of any damages. 
+
+4. 0 - DATA PRIVACY
+
+Alegbra software doesn't collect any data of You or Your device.
+
+5. 0 - THIRD PARTY SERVICES
+
+Algebra Myra and the Mixscans Bridge Client Software use Blogger(c) from Google LLC. Blogger(C) collects only data, 
+how long people were on the Mixscans Asset Library. It doesn't collect device data or other information about you.
+
+6. 0 - TERMINATION OF THE END-USER-LICENSE-AGREEMENT (EULA)
+
+This EULA will terminate when following terms are going in action:
+   a) You delete the application from your system
+   b) You modify, bypass or break the software
+   c) Algebra ends the EULA, when the developement has ended
+Please keep in mind, that the end of the EULA doesn't affect term 1. 0, 1. 1, 2. 0 and 3. 0. They are still active 
+after case a), b) and/or c).
